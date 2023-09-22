@@ -1,0 +1,21 @@
+/* Navbar.css */
+.navbar-nav li.nav-item {
+    margin-right: 100px;
+    /* Adjust the margin-right value as needed */
+  }
+  #garden{
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+  }
+  #link
+  {
+   
+    text-decoration: none;
+  }
+#nav
+{
+  font-family: 'Satisfy', cursive;
+  font-size: 20px; 
+}
+
+  
