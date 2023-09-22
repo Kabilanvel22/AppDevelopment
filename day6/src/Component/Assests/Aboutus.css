@@ -1,0 +1,13 @@
+.para{
+    font-family: 'Satisfy', cursive;
+    font-size: 38px;
+}
+.p1{
+    line-height:1.8;
+    font-size: 18px;
+}
+img{
+    height: 90%;
+    width: 80%;
+    border-radius: 5%;
+}

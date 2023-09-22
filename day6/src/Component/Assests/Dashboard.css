@@ -1,0 +1,33 @@
+.hero {
+    image-resolution: 80px;
+    background-size: cover;
+    background-position: center;
+    color: #070000;
+    text-align: center;
+    padding: 100px 0;
+  }
+  .st{
+  width: 200px;
+  height: 200px;
+  }
+  .product1{
+    padding-left: 400px;
+    position: relative;bottom: 150px;
+    
+}
+  .hero-head{
+    margin-left: -166px;
+    margin-top: -50px;
+    padding-bottom: 100px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: cursive;
+  }
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+  }
