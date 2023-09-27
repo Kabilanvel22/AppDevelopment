@@ -1,0 +1,45 @@
+.add-plant-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  .add-plan-container {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    background-image: url("https://i.ibb.co/cbHkZjQ/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Montserrat";
+    height: 100vh;
+  }
+  .add-plant-container label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-plant-container input,
+  .add-plant-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-plant-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .add-plant-container button:hover {
+    background-color: #0056b3;
+  }
+  
